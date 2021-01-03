@@ -1,0 +1,59 @@
+.carousel-container {
+    margin-top: 80px;
+}
+ 
+.carousel-container > h2{
+    font-family: var(--fontLato);
+    color: var(--primaryHeader);
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 80px;
+}
+ 
+.items {
+    width: 90%;
+    
+}
+ 
+.slider-content {
+    text-align: center;
+    background-color: white;
+    width: 90%;
+    padding: 20px 20px 40px 20px;
+}
+ 
+.product-name {
+    font-family: var(--fontLato);
+    color: var(--headerBlack);
+    font-size: 22px;
+    font-weight: 600;
+}
+ 
+.product-name:hover {
+    color: var(--primaryHeader);
+    text-decoration: none; 
+}
+ 
+.slider-image {
+    width: 90%;
+}
+ 
+.price {
+    color: var(--brandColor);
+    font-size: 20px;
+}
+ 
+.star {
+    float: left;
+    margin-left: 20px;
+    margin-right: -30px;
+}
+ 
+.starCount {
+    color: var(--grayText);
+    margin-top: -5px;
+}
+ 
+.slick-slide {
+  
+}
